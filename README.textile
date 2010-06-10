@@ -1,0 +1,12 @@
+h1. jsonwhois
+
+An unofficial Ruby library for interacting with the "Hoptoad API":http://hoptoadapp.com/pages/api
+
+h2. Usage
+
+curl --header "Accept: application/json" http://jsonwhois.heroku.com/google.com
+
+h2. Requirements
+
+* sinatra
+* whois gem
