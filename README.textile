@@ -1,6 +1,6 @@
 h1. jsonwhois
 
-whois is a REST embrace
+whois is in a RESTful embrace.
 
 h2. Usage
 
@@ -9,4 +9,4 @@ curl --header "Accept: application/json" http://jsonwhois.heroku.com/google.com
 h2. Requirements
 
 * sinatra
-* whois gem
+* whois
