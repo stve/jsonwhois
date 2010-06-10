@@ -1,6 +1,6 @@
 h1. jsonwhois
 
-An unofficial Ruby library for interacting with the "Hoptoad API":http://hoptoadapp.com/pages/api
+whois is a REST embrace
 
 h2. Usage
 
