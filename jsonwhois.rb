@@ -6,7 +6,7 @@ require 'core_ext/struct'
 require 'erb'
 
 set :views, File.dirname(__FILE__) + '/templates'
-set :env, :production
+set :environment, :production
 
 get '/' do
   erb :index
