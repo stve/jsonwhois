@@ -1,6 +1,6 @@
 h1. jsonwhois
 
-whois is in a RESTful embrace.
+whois in a RESTful embrace.
 
 h2. Usage
 
